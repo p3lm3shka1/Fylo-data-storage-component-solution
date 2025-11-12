@@ -4,6 +4,12 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ## Responsive design with **@media**
 
+### Mobile design
+
+```
+@media (max-width: 375px)
+```
+
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/307d6a26-e648-4126-b800-b5a11a83ea55" />
 
 ### Desktop design
@@ -12,11 +18,11 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ## Links
 
-Live site URL : https://p3lm3shka1.github.io/Product-preview-card-component
+Live site URL : https://p3lm3shka1.github.io/Fylo-data-storage-component-solution/
 
 <br>
 
-Repository URL : https://github.com/p3lm3shka1/Product-preview-card-component
+Repository URL : https://github.com/p3lm3shka1/Fylo-data-storage-component-solution
 
 ## Build with
 
@@ -28,5 +34,5 @@ Repository URL : https://github.com/p3lm3shka1/Product-preview-card-component
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://github.com/p3lm3shka1
+- Frontend Mentor - https://www.frontendmentor.io/profile/p3lm3shka1
